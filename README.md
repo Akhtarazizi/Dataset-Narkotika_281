@@ -1,4 +1,4 @@
-![Mahkamah Agung](Logo/LogoDirektori)
+![Mahkamah Agung](Logo/LogoDirektori.jpeg)
 
 # Proyek Data Putusan Pengadilan Negeri Padang
 
