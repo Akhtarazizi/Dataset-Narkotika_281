@@ -1,4 +1,4 @@
-![Mahkamah Agung](https://upload.wikimedia.org/wikipedia/id/thumb/8/84/Logo_Mahkamah_Agung_Republik_Indonesia.png/1200px-Logo_Mahkamah_Agung_Republik_Indonesia.png)
+![Mahkamah Agung](Logo/LogoDirektori)
 
 # Proyek Data Putusan Pengadilan Negeri Padang
 
